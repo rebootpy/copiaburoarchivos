@@ -79,6 +79,9 @@ form button {
 	background-color: #00C49A;
 	border: 1px solid #00C49A;
 	color: #fff;
+	width: 100%;
+	text-align: center;
+        padding: 10pxpx;
 	text-transform: uppercase;
 }
 .contenido  .laboral {
